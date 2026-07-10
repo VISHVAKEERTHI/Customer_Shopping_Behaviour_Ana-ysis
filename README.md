@@ -97,6 +97,8 @@ An interactive dashboard was built to visualize key KPIs and trends, featuring:
 │   └── business_analysis_queries.sql    # PostgreSQL queries
 ├── dashboard/
 │   └── Customer_Behavior_Dashboard.pbix # Power BI dashboard
+├── Images/
+│   └── Dashboard image_final
 ├── README.md
 └── requirements.txt
 ```
