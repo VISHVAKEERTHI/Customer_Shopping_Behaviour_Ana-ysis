@@ -90,13 +90,13 @@ An interactive dashboard was built to visualize key KPIs and trends, featuring:
 
 ```
 ├── data/
-│   └── customer_shopping_data.csv       # Raw dataset
+│   └── customer_shopping_behaviour.csv       # Raw dataset
 ├── notebooks/
 │   └── Data_Cleaning_EDA.ipynb          # Python data prep & EDA
 ├── sql/
-│   └── business_analysis_queries.sql    # PostgreSQL queries
+│   └── customer_behavior_sql_queries.sql    # PostgreSQL queries
 ├── dashboard/
-│   └── Customer_Behavior_Dashboard.pbix # Power BI dashboard
+│   └── Customer_Behavior_Dashboard(1).pbix # Power BI dashboard
 ├── Images/
 │   └── Dashboard image_final
 ├── README.md
