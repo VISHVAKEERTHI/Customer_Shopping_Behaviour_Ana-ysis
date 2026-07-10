@@ -101,26 +101,6 @@ An interactive dashboard was built to visualize key KPIs and trends, featuring:
 └── requirements.txt
 ```
 
----
-
-## 🚀 How to Reproduce
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/customer-shopping-behavior-analysis.git
-cd customer-shopping-behavior-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis notebook
-jupyter notebook notebooks/data_cleaning_eda.ipynb
-```
-
-To reproduce the SQL analysis, load the cleaned dataset into a PostgreSQL instance and run the queries in `sql/business_analysis_queries.sql`.
-
----
-
 ## 📝 License
 
 This project is available under the [MIT License](LICENSE).
